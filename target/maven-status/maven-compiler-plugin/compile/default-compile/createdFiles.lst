@@ -1,5 +1,5 @@
-com\mycompany\p2\SecondaryController.class
-module-info.class
 com\mycompany\p2\PrimaryController.class
 com\mycompany\p2\LoginController.class
 com\mycompany\p2\App.class
+com\mycompany\p2\SecondaryController.class
+module-info.class
